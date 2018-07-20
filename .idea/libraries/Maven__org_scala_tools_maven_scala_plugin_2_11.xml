@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.scala-tools:maven-scala-plugin:2.11">
+    <CLASSES>
+      <root url="jar://D:/maven3.5.3/repo/org/scala-tools/maven-scala-plugin/2.11/maven-scala-plugin-2.11.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/maven3.5.3/repo/org/scala-tools/maven-scala-plugin/2.11/maven-scala-plugin-2.11-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/maven3.5.3/repo/org/scala-tools/maven-scala-plugin/2.11/maven-scala-plugin-2.11-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
